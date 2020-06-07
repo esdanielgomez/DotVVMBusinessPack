@@ -1,2 +1,18 @@
-# DotVVMBusinessPack
-Web forms with DotVVM Business Pack
+# Web forms with DotVVM Business Pack
+
+DotVVM is a ASP.NET framework that allows us to create web applications using the MVVM (Model-View-Viewmodel) design pattern with C# and HTML. In this repository, you can find an example of how to design a web form with DotVVM Business Pack.
+
+## Main page screenshot 
+
+![](https://res.cloudinary.com/practicaldev/image/fetch/s--8cUZAXo7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/yhlatwfd4z2tx4lsvcjz.png)
+
+## Tutorial:
+
+- [Web forms with DotVVM Business Pack](https://dev.to/esdanielgomez).
+- [DotVVM and ASP.NET Core: Implementing CRUD operations](https://dev.to/esdanielgomez/dotvvm-and-asp-net-core-implementing-crud-operations-l2e).
+
+## Autor
+
+Daniel Gomez Jaramillo
+
+[twitter.com/esDanielGomez](twitter.com/esDanielGomez)
